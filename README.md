@@ -1,6 +1,6 @@
 # Dynamic Dashboard Builder
 
-![Dashboard Preview]
+
 
 A modern, responsive dashboard builder built with React and Vite that allows users to dynamically create, manage, and organize widgets within categories. Features real-time search, persistent storage, and an intuitive drag-and-drop-ready architecture.
 
