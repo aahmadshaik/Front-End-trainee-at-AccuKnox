@@ -15,7 +15,7 @@ A modern, responsive dashboard builder built with React and Vite that allows use
 - ✅ **Clean UI/UX**: Modern interface with smooth animations and transitions
 
 ### Technical Features
-- 🚀 **React 18.3.1** with functional components and hooks
+- 🚀 **React 19.1.1** with functional components and hooks
 - ⚡ **Vite** for lightning-fast development and builds
 - 🎨 **Tailwind CSS v4** with the new Vite plugin for streamlined styling
 - 🔧 **Modular Architecture** with separated components and custom hooks
